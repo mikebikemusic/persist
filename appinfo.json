@@ -1,0 +1,21 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "16e94fb2-edbf-4a61-9e75-b230cd5d2eb3",
+    "appKeys": {
+        "tzCity": 10,
+        "selected": 1
+    },
+    "longName": "persist",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "persist",
+    "companyName": "mikebikemusic",
+    "watchapp": {
+        "watchface": true
+    },
+    "resources": {
+        "media": []
+    }
+}
